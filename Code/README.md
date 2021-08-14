@@ -1,4 +1,4 @@
-# KIM
+# HieRec
 - Code of our HieRec model
 
 # Data Preparation
