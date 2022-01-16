@@ -109,7 +109,7 @@ def read_clickhistory(news_index,data_root_path,filename):
     for i in range(len(lines)):
         _,uid,eventime, click, imps = lines[i].strip().split('\t')
         if click == '':
-            clicks = []
+            clikcs = []
         else:
             clikcs = click.split()
         true_click = []
